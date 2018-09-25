@@ -2,4 +2,5 @@
 # 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
 ################################################################################
 
-/calibration/.vs/calibration/v15/Browse.VC.opendb
+/.vs/calibration/v15/Browse.VC.opendb
+/.vs/calibration/v15/ipch/AutoPCH/293506a61563d5e0/EXTRACT_CIRCLE_CENTER.ipch
